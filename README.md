@@ -1,7 +1,7 @@
 
 ## Tools quản lý || Management tools
 
-### [Preview](code-player-tools-managers.netlify.com/).
+### [Preview](https://code-player-tools-managers.netlify.com/).
 
 ### Description
 
