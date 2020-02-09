@@ -1,7 +1,7 @@
 
 ## Tools quản lý || Management tools
 
-### Preview 
+### [Preview](code-player-tools-managers.netlify.com/).
 
 ### Description
 
@@ -19,7 +19,7 @@ or
 yarn or yarn start
 ```
 
-### API Connect App
+### BACKEND API Connect App
 
 ```bash
 https://github.com/xuanduyrn/api-tools-management
