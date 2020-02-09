@@ -7,7 +7,10 @@
 
 `Làm chơi cho vui` || `Do play for fun`
 
-Install `node_modules`:
+`Frontend Reactjs, Ant Design`
+`Backend Nodejs Express`
+
+### Install `node_modules`:
 
 ```bash
 npm install or npm start
