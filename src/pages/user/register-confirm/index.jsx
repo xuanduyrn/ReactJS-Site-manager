@@ -67,7 +67,7 @@ class RegisterConfirm extends Component {
               hoạt tài khoản
             </div>
           }
-          subTitle="Mã xác thực đã được gửi đến địa chỉ email của bạn và có hiệu lực trong 15 phút. Vui lòng đăng nhập vào email kịp thời và kiểm tra trong hộp thư đến hoặc hộp thư Spam. Nếu không nhận được email hãy thử nhập mã 9999"
+          subTitle="Mã xác thực đã được gửi đến địa chỉ email của bạn và có hiệu lực trong 15 phút. Vui lòng đăng nhập vào email kịp thời và kiểm tra trong hộp thư đến hoặc hộp thư Spam."
           extra={actions}
         />
         <div className={styles.main}>
@@ -89,7 +89,7 @@ class RegisterConfirm extends Component {
                   maxLength={4}
                   prefix={<Icon type="key" />}
                   size="large"
-                  placeholder="Mã xác thực * 9999"
+                  placeholder="Mã xác thực"
                 />,
               )}
             </FormItem>

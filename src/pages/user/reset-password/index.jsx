@@ -108,7 +108,7 @@ class ResetPassword extends Component {
               lại mật khẩu
             </div>
           }
-          subTitle="Mã xác thực đã được gửi đến địa chỉ email của bạn và có hiệu lực trong 15 phút. Vui lòng đăng nhập vào email kịp thời và kiểm tra trong hộp thư đến hoặc hộp thư Spam. Nếu không nhận được email hãy thử nhập mã 9999"
+          subTitle="Mã xác thực đã được gửi đến địa chỉ email của bạn và có hiệu lực trong 15 phút. Vui lòng đăng nhập vào email kịp thời và kiểm tra trong hộp thư đến hoặc hộp thư Spam."
           extra={actions}
         />
         <div className={styles.main}>
@@ -125,7 +125,7 @@ class ResetPassword extends Component {
                     message: 'Giá trị không hợp lệ!',
                   },
                 ],
-              })(<Input maxLength={4} size="large" placeholder="9999" />)}
+              })(<Input maxLength={4} size="large" placeholder="Nhập mã xác thực" />)}
             </FormItem>
             <FormItem label="Mật khẩu mới">
               {form.getFieldDecorator('newPassword', {
