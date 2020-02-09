@@ -25,5 +25,5 @@ yarn or yarn start
 ### BACKEND API Connect App
 
 ```bash
-https://github.com/xuanduyrn/api-tools-management
+https://github.com/xuanduyrn/nodejs-express-tools-manager
 ```
